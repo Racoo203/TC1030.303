@@ -1,0 +1,27 @@
+Cargando archivo...
+Archivo abierto exitosamente
+Videos agregado exitosamente
+Total de videos: X
+
+Filtrando...
+Introduzca la calificacion
+Introduzca el genero
+Total de videos: X
+
+Filtrando...
+Introduzca el nombre de la serie
+Introduzca la calificacion
+Total de episodios: X
+
+Filtrando...
+Introduzca la calificacion
+Total de peliculas: X
+
+Introduzca el titulo del video:
+Introduzca la calificacion:
+Calificacion agregada exitosamente
+[Display Video Details]
+
+Cerrando...
+Memoria liberada
+Cerrado exitosamente.
